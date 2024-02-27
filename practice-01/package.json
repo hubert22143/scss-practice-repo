@@ -1,0 +1,24 @@
+{
+  "name": "practice-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack && gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-google": "^0.14.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "html-webpack-plugin": "^5.6.0",
+    "prettier": "^3.2.5",
+    "sass": "^1.71.1",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
